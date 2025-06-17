@@ -1,11 +1,8 @@
-# Knowledge distillation for memorized data: Soft labels can leak held out information
+# Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge
 
-Code accompanying the paper
-
-> Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge
->
 > Freya Behrens, Lenka Zdeborová
 
+Code accompanying the paper.
 
 ## Usage
 
